@@ -1,5 +1,10 @@
 # fossilized-f
 
+
+# Company
+[SunEdison](Companies/SUNE.md)
+
+
 # Setup
 - Create a github account with your email
 - Subscribe to repository
@@ -15,6 +20,3 @@ Will be using a fibonacci scale to address risks
 - 13
 - 21
 - 34
-
-# Company
-[SunEdison](Companies/SUNE.md)
