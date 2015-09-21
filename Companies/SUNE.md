@@ -53,3 +53,4 @@ Small purchase of shares. A lot of uncertainty and volatility. Very interesting 
 - [Wholesale vs Retail Electricity](http://www.nyiso.com/public/about_nyiso/understanding_the_markets/wholesale_retail/index.jsp)
 - [David Einhorn presentation on SUNE Nov 2014](http://www.businessinsider.com/david-einhorn-robin-hood-presentation-2014-10?op=1)
 - [Jim Chanos short SolarCity](http://www.cnbc.com/2015/08/21/chanos-is-shorting-elon-musk.html)
+- [Glenn Chan Residential Solar](https://glennchan.wordpress.com/2015/09/01/residential-solar-makes-little-sense/)
