@@ -84,3 +84,47 @@ The main and real fears are that the Vivint acquisition was a bad ownership, SUN
 - [David Einhorn presentation on SUNE Nov 2014](http://www.businessinsider.com/david-einhorn-robin-hood-presentation-2014-10?op=1)
 - [Jim Chanos short SolarCity](http://www.cnbc.com/2015/08/21/chanos-is-shorting-elon-musk.html)
 - [Bronte Capital SUNE writeup](http://brontecapital.blogspot.com/2015/10/sun-edison-some-comments-and-way-forward.html)
+
+# Post Mortem
+
+SUNE filed for Chapter 11th bankruptcy in early 2016. This will be the largest bankruptcy in U.S. market in some time. The cause of the bankruptcy is a liquidity issue from too much debt burden and inability to complete and sell projects. Noting the projects were good ones and as far as we know the company's business itself was not fraudulent, but that the representation of their financial state was as well as their relationship between SUNE and two yieldco's. Acquisition discipline slipped and a number of deals became more Questionable.
+
+## Jim Chanos comments on SUNE
+Jim Chanos commented on CNBC on positive financials for SUNE while commenting on his short of SolarCity. Chanos bought SUNE in Q4 2014, but had sold out within 3 quarters for losses. I had watched the CNBC interview, but not noticed he had sold in the time in between.
+
+## David Tepper lawsuit of TERP conflict of interest
+Hedge fund manager David Tepper who is also held in high regard took a large stake in the yieldco Terraform and was unhappy with the proposed Vivint acquisition because SUNE was to have Terraform buy Vivint assets for for cash for itself. He is spearheading a lawsuit that states that SUNE abused it's relationship with Terraform and is trying to (rightfully) get clarified financial statements released.
+
+## David Einhorn
+David Einhorn is my favorite investor today. What is interesting about this in the past few years he's engaged with bloggers frequently to discuss rebuttals to his ideas. Notably a few that have gone sour and will list those discussions here.
+
+- [DE response Vienna Capitalist on Greek Piraeus Bank](https://viennacapitalist.com/2014/11/19/my-response-to-david-einhorns-comments-part-1/)
+- [DE posting as davideinhornnyc in comment section on Consol Energy](https://valueandopportunity.com/2015/11/19/dear-david-einhorn-why-are-your-interns-doing-all-the-cost-of-capital-estimates-consol-energy/)
+
+Keeping admiration of David and noting that these are discussions, but apparently the blogs we read intersect a lot more than I thought.
+
+## Cancellation of Acquisition of Vivint Solar
+Our view on Vivint Solar that this was a bad transaction and was moving  
+
+Despite dire financial straits, SUNE shareholders to my own surprise overwhelmingly voted in favor of acquiring Vivint Solar. Vivint Solar itself terminated the deal after SUNE failed to close on the acquisition.
+
+## SUNE Debt
+SUNE started to take high interest debt to address liquidity with heavily dilutive convertible debt and second lien debt at interest rates at ~9.25%.
+
+## Facts inclining us to lean SUNE and signs ignored
+- CEO Ahmad Chatila often refused salary in favor of SUNE and had no large dispositions of shares since
+- Executive board reshuffle, Executives of Terraform and Terraform Global replaced, resignations of protesting directors at SUNE
+- Purchased projects themselves were good, which gave a false sense of security addressing the overall debt.
+- Greenlight able to appoint independent director in January 2016, but was already too late.
+- Delay of annual report twice after reported weakness in financial reporting
+- Lawsuit on misrepresentation of cash reserves of over $1 billion
+- Reality that yieldco's could issue shares to finance purchases was not a reality very quickly and broke one of critical assumptions
+- Because of oil crash and market reducing Terraform company share prices the Incentive Distribution Rights(IDRs) never materialized.
+
+## Unfortunately in Good Company
+We find ourselves in this bad situation with good company. David Einhorn of Greenlight Capital and Jim Chanos of Kynikos as well as many other respected investors were caught up in the bankruptcy. Well respected is being stressed here as many of the best and most scrutinous minds on financial fraud  
+
+## Sources
+- [Greenlight 2016Q1 letter post bankruptcy Page 2](https://www.docdroid.net/FGp1j9g/greenlight-capital-q1-2016.pdf.html)
+- [Greenlight 2015Q4 letter](http://www.mediafire.com/download/af692243v853285/Greenlight+Capital+Q4+2015.pdf)
+- [Wall Street Journal article on SunEdison bankruptcy](http://www.wsj.com/articles/inside-the-fall-of-sunedison-once-a-darling-of-the-clean-energy-world-1460656000#:PDserzPzN0MotA)
